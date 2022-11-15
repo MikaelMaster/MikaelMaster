@@ -1,4 +1,4 @@
-## Hey! My name is Mikael and I'm from Brazil 🇧🇷! I'm a Kotlin developer. Also, I work with the Bukkit/Spigot/Paper API to develop plugins for Minecraft servers!
+## Hey! My name is Mikael and I'm from Brazil! I'm a Kotlin developer. Also, I work with the Bukkit/Spigot/Paper API to develop plugins for Minecraft servers!
 ## Now, I'm learning Java (but I still prefer Kotlin 🤐). My Discord is *Sr. MK#1313*. Maybe some day you'll see me playing Minecraft with the nickname *MKjubs*.
 <div align="center">
   <a href="https://github.com/MikaelMaster">
