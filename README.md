@@ -1,4 +1,6 @@
-### Hey! My name is Mikael and I'm from Brazil. I'm a Kotlin developer. I make Android apps and plugins for Minecraft servers using the Bukkit/Spigot/Paper API! Now, I'm learning TypeScript, JavaScript and PhP (but I still prefer Kotlin 🤐). My Discord is *.sr.mk*. Maybe some day you'll see me playing Minecraft with the nickname *MKjubs*.
+Hey! My name is Mikael and I'm from Brazil. I'm a Kotlin and React developer.
+I've programmed a lot with Kotlin over the past 2 years (since 2021) creating plugins for Minecraft servers (using the Bukkit API). Nowadays I create websites with React (TS/JS), mainly backend.
+Sometimes I still program some plugins, just to kill the nostalgia. To this day, Kotlin is still the language I most enjoyed using in my life as a programmer, and it has also accompanied an important part of my career as a programmer ❤.
 
 ![MikaelMaster's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula)
 
