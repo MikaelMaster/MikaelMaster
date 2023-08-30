@@ -6,4 +6,4 @@ Some of my GitHub stats: <br>
 ![MikaelMaster's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula)
 
 And the languages I most use: <br>
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&theme=dracula)](https://github.com/MikaelMaster/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&theme=dracula&access_token=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)](https://github.com/MikaelMaster/github-readme-stats)
