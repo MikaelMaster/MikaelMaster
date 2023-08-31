@@ -7,3 +7,7 @@ Some of my GitHub stats: <br>
 
 And the languages I most use: <br>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&theme=dracula)](https://github.com/MikaelMaster/github-readme-stats)
+
+☎ If you want to contact me, use my Instagram **@thesrmk**. 
+
+~ Mikael
