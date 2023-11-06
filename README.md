@@ -3,10 +3,10 @@ I've programmed a lot with Kotlin over the past 2 years (since 2021) creating pl
 Sometimes I still program some plugins, just to kill the nostalgia. To this day, Kotlin is still the language I most enjoyed using in my life as a programmer, and it has also accompanied an important part of my career as a programmer ❤.
 
 Some of my GitHub stats: <br>
-![MikaelMaster's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-And the languages I most use: <br>
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&theme=dracula)](https://github.com/MikaelMaster/github-readme-stats)
+And the languages I most use: <br> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 
 ☎ If you want to contact me, use my Instagram **@thesrmk**. 
 
