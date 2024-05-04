@@ -8,6 +8,6 @@ Some of my GitHub stats: <br>
 And the languages I most use: <br> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 
-☎ If you want to contact me, use my Instagram **@thesrmk**. 
+☎ If you want to contact me, use my Instagram **@mikthiede**. 
 
 ~ Mikael :)
