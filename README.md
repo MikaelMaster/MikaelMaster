@@ -1,13 +1,21 @@
-Hey! My name is Mikael and I'm from Brazil. I'm a Kotlin and React developer.
-I've programmed a lot with Kotlin over the past 2 years (since 2021) creating plugins for Minecraft servers (using the Bukkit/Spigot API). Nowadays I create websites with React (TS/JS), mainly backend.
-Sometimes I still program some plugins, just to kill the nostalgia. To this day, Kotlin is still the language I most enjoyed using in my life as a programmer, and it has also accompanied an important part of my career as a programmer ❤.
+# About Me, Mikael
 
-Some of my GitHub stats: <br>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+👋 Hi there! I'm Mikael, a backend developer with experience in Kotlin and TypeScript.
 
-And the languages I most use: <br> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+🔧 Since 2021, I've been creating Minecraft plugins using the **Bukkit API** with **Kotlin** as my main language.
+📅 From December 2022 to March 2024, I worked at a tech company as a backend and frontend developer, building web apps with TypeScript.
 
-☎ If you want to contact me, use my Instagram **@mikthiede**. 
+💻 Nowadays, I primarily work with **Kotlin**, developing backend solutions.
 
-~ Mikael :)
+📊 Some of my GitHub stats:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+📚 The languages I use the most:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+
+☎️ If you want to contact me, you can reach me through:
+- Discord: **.sr.mk** (602541950071209986)
+- Email: **mikaelpeixoto123t@gmail.com**
+- Instagram: **[@mikthiede](https://www.instagram.com/mikthiede)**
+
+~ Mikael ❤
