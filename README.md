@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Mikael, a backend and frontend developer with experience in **Kotlin, React and TypeScript**.<br>
 
-🔧 Since 2021, I've been creating Minecraft plugins using the **Bukkit API** with **Kotlin** as my main language.<br>
+🔧 Since 2020, I've been creating Minecraft plugins using the **Bukkit API** with **Kotlin** as my main language. Nowdays I'm also working on Minecraft Mods using the **Fabric API**.<br>
 📅 From December 2022 to March 2024, I worked at a tech company as a backend and frontend developer, building web apps with **React and TypeScript**.
 
 💻 Nowadays, I primarily work with **Kotlin and Typescript**, developing backend solutions.
