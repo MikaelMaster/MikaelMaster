@@ -13,9 +13,6 @@
 📊 **Some of my GitHub stats:**  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-📚 **Most used languages:**  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-
 📬 **How to reach me:**  
 - Discord: **.sr.mk** (602541950071209986)  
 - Email: **mikaelpeixoto123t@gmail.com**  
