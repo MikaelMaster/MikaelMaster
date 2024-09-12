@@ -1,21 +1,24 @@
-# About me, Mikael
+# About Me - Mikael
 
-👋 Hi there! I'm Mikael, a backend and frontend developer with experience in **Kotlin, React and TypeScript**.<br>
+👋 **Hello!** I'm a backend developer specializing in **Kotlin**, with experience in frameworks like **Ktor** and **Exposed**, focused on building scalable and robust APIs.
 
-🔧 Since 2020, I've been creating Minecraft plugins using the **Bukkit API** with **Kotlin** as my main language. Nowdays I'm also working on Minecraft Mods using the **Fabric API**.<br>
-📅 From December 2022 to March 2024, I worked at a tech company as a backend and frontend developer, building web apps with **React and TypeScript**.
+💾 **Databases:** I have solid experience with relational databases (SQL) and caching systems like **Redis**, applying best practices to optimize application performance.
 
-💻 Nowadays, I primarily work with **Kotlin and Typescript**, developing backend solutions.
+🚀 **How It All Started:** My development journey began by creating **Minecraft plugins** and **mods**, using **Kotlin** and **Java** alongside the **Bukkit/Spigot APIs**. This early experience helped me build a strong foundation in programming logic and event-driven development.
 
-📊 Some of my GitHub stats:<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
+🌐 **Additional Skills:** I also have basic knowledge of **JavaScript** and **TypeScript**, which I’ve used in frontend and web projects.
 
-📚 The languages I use the most:<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&langs_count=7&theme=dracula&count_private=true"/><br>
+💻 **Technologies I Use:** My main focus is backend development with **Kotlin**, but I’m always expanding my skill set by learning and experimenting with new technologies.
 
-☎️ If you want to contact me, you can reach me through:<br>
-- Discord: **.sr.mk** (602541950071209986)
-- Email: **mikaelpeixoto123t@gmail.com**
-- Instagram: **[@mikthiede](https://www.instagram.com/mikthiede)**<br>
+📊 **Some of my GitHub stats:**  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+📚 **Most used languages:**  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMaster&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+
+📬 **How to reach me:**  
+- Discord: **.sr.mk** (602541950071209986)  
+- Email: **mikaelpeixoto123t@gmail.com**  
+- Instagram: **[@mikthiede](https://www.instagram.com/mikthiede)**  
 
 ~ Mikael ❤
