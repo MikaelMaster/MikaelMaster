@@ -16,6 +16,5 @@
 📬 **How to reach me:**  
 - Discord: **.sr.mk** (602541950071209986)  
 - Email: **mikaelpeixoto123t@gmail.com**  
-- Instagram: **[@mikthiede](https://www.instagram.com/mikthiede)**  
 
 ~ Mikael ❤
