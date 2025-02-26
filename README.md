@@ -1,17 +1,17 @@
-# Sobre Mim - Mikael
+# About Me - Mikael
 
-👋 Olá! Sou um desenvolvedor especializado em **Kotlin**, com foco principal no desenvolvimento de **backends** utilizando **Ktor** e **Exposed** para criar APIs escaláveis e robustas. Além disso, integro meus backends com frontends desenvolvidos em **React** e **NextJS**, utilizando **TypeScript** para construir interfaces dinâmicas e modernas.
+👋 Hello! I'm a backend developer specializing in **Kotlin**, with a primary focus on developing backends using **Ktor** and **Exposed** to build scalable and robust APIs. In addition, I integrate my Ktor backends with frontends developed in **React** and **NextJS** using **TypeScript**, creating dynamic and modern interfaces.
 
-💾 **Bancos de Dados:** Possuo sólida experiência com bancos de dados relacionais (SQL) e sistemas de cache como **Redis**, sempre aplicando as melhores práticas para otimizar a performance das aplicações.
+💾 **Databases:** I have solid experience with relational databases (SQL) and caching systems like **Redis**, consistently applying best practices to optimize application performance.
 
-🚀 **Como Tudo Começou:** Minha jornada começou criando **plugins** e **mods** para **Minecraft**, usando **Kotlin** e **Java** com as APIs **Bukkit/Spigot**. Essa experiência foi fundamental para construir uma base sólida em lógica de programação e desenvolvimento orientado a eventos.
+🚀 **How It All Started:** My development journey began by creating **Minecraft plugins** and **mods** using **Kotlin** and **Java** with the **Bukkit/Spigot APIs**. This early experience helped me build a strong foundation in programming logic and event-driven development.
 
-💻 **Tecnologias que Utilizo:** Apesar de meu foco ser o desenvolvimento backend, estou constantemente expandindo minhas habilidades e explorando novas tecnologias para oferecer soluções completas e integradas.
+💻 **Technologies I Use:** While my main focus is backend development with **Kotlin**, I'm constantly expanding my skills and exploring new technologies to deliver comprehensive, integrated solutions.
 
-📊 **Algumas das minhas estatísticas no GitHub:**  
+📊 **Some of my GitHub stats:**  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-📬 **Como me Contatar:**  
+📬 **How to Reach Me:**  
 - Discord: **.sr.mk** (602541950071209986)  
 - Email: **mikaelpeixoto123t@gmail.com**
 
