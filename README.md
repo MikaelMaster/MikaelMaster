@@ -1,4 +1,4 @@
-# About Me - Mikael
+# About me - Mikael
 
 👋 Hello! I'm a backend developer specializing in **Kotlin**, with a primary focus on developing backends using **Ktor** and **Exposed** to build scalable and robust APIs. In addition, I integrate my Ktor backends with frontends developed in **React** and **NextJS** using **TypeScript**, creating dynamic and modern interfaces.
 
