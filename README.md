@@ -11,8 +11,9 @@
 📊 **Some of my GitHub stats:**  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-📬 **How to Reach Me:**  
+📬 **How to Reach Me:**
+- LinkedIn: [Mikael Thiede](https://www.linkedin.com/in/mikael-thiede-416152249/)
 - Discord: **.sr.mk** (602541950071209986)  
-- Email: **mikaelpeixoto123t@gmail.com**
+- Email: **mikaelpeixoto123t@gmail.com** - [Mail me!](mailto:mikaelpeixoto123t@gmail.com)
 
 ~ Mikael ❤
