@@ -16,17 +16,7 @@ Recently, I've been heavily working with AI-assisted development workflows using
 
 💡 I also have strong backend experience with **Kotlin** and **Ktor**, building APIs and services using coroutines, Exposed ORM, and Redis-based architectures.
 
-📦 Beyond coding itself, I enjoy thinking about:
-- Software architecture
-- Developer experience
-- AI-assisted engineering workflows
-- Scalable systems
-- Real-world product building
-
 🧠 My programming journey started with Minecraft plugins/mods using Kotlin and Java through Bukkit/Spigot APIs, which helped me build a strong foundation in backend logic and event-driven systems early on.
-
-📊 **Some of my GitHub stats:**  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 📬 **How to Reach Me:**
 - LinkedIn: [Mikael Thiede](https://www.linkedin.com/in/mikael-thiede-416152249/)
